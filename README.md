@@ -12,7 +12,7 @@
 Develop computer vision models for:
 - **Disease detection**: Identify Newcastle disease, Coccidiosis, Salmonella through fecal analysis.
 - **Classification tasks**: Binary (healthy vs non-healthy) or multi-class disease identification.
-- **Segmentation**: Locate abnormal regions in fecal matter[3][5]
+- **Segmentation**: Locate abnormal regions in fecal matter.
 
 
 ## Dataset Credits
